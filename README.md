@@ -1,1 +1,1 @@
-# Super-Store-Report-2022-Excel-Project-
+Super Store Report 2022 (Excel Project) is a demonstration of an Excel-based analysis on sample data sourced from the internet. This project showcases the ability to generate insights and visualizations on store performance, sales trends, and customer behavior. It serves as a practical example for leveraging Excel for data analysis in a retail context.
